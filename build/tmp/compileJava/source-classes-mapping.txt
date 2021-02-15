@@ -1,20 +1,25 @@
-one/diditalinnovation/classes/Pessoa/ProgramaDoUsuario.java
- one.diditalinnovation.classes.Pessoa.ProgramaDoUsuario
+one/diditalinnovation/classes/Cliente/Cliente.java
+ one.diditalinnovation.classes.Cliente.Cliente
+one/diditalinnovation/classes/Pessoa/ProgramaPessoaFisica.java
+ one.diditalinnovation.classes.Pessoa.ProgramaPessoaFisica
 one/diditalinnovation/classes/Pessoa/Pessoa.java
  one.diditalinnovation.classes.Pessoa.Pessoa
 one/diditalinnovation/classes/usuario/SuperUsuario.java
  one.diditalinnovation.classes.usuario.SuperUsuario
+one/diditalinnovation/primitivos/DefaultValues.java
+ one.diditalinnovation.primitivos.Default
+ one.diditalinnovation.primitivos.DefaultValues
 one/diditalinnovation/classes/Programa.java
  one.diditalinnovation.classes.Programa
+one/diditalinnovation/classes/Pessoa/ProgramaDoCliente.java
+ one.diditalinnovation.classes.Pessoa.ProgramaDoCliente
 one/diditalinnovation/classes/usuario/ProgramDoSuperUser.java
  one.diditalinnovation.classes.usuario.ProgramDoSuperUser
 one/diditalinnovation/classes/Pessoa/PessoaFisica.java
  one.diditalinnovation.classes.Pessoa.PessoaFisica
-one/diditalinnovation/classes/Pessoa/ProgramaPessoaFisica.java
- one.diditalinnovation.classes.Pessoa.ProgramaPessoaFisica
-one/diditalinnovation/classes/Cliente/Cliente.java
- one.diditalinnovation.classes.Cliente.Cliente
+one/diditalinnovation/primitivos/Primitivos.java
+ one.diditalinnovation.primitivos.Primitivos
 one/diditalinnovation/classes/Cliente/ProgramaDoCliente.java
  one.diditalinnovation.classes.Cliente.ProgramaDoCliente
-one/diditalinnovation/classes/Pessoa/ProgramaDoCliente.java
- one.diditalinnovation.classes.Pessoa.ProgramaDoCliente
+one/diditalinnovation/classes/Pessoa/ProgramaDoUsuario.java
+ one.diditalinnovation.classes.Pessoa.ProgramaDoUsuario
