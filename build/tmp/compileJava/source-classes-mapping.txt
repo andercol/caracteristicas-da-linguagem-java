@@ -1,25 +1,58 @@
-one/diditalinnovation/classes/Cliente/Cliente.java
- one.diditalinnovation.classes.Cliente.Cliente
-one/diditalinnovation/classes/Pessoa/ProgramaPessoaFisica.java
- one.diditalinnovation.classes.Pessoa.ProgramaPessoaFisica
-one/diditalinnovation/classes/Pessoa/Pessoa.java
- one.diditalinnovation.classes.Pessoa.Pessoa
-one/diditalinnovation/classes/usuario/SuperUsuario.java
- one.diditalinnovation.classes.usuario.SuperUsuario
-one/diditalinnovation/primitivos/DefaultValues.java
- one.diditalinnovation.primitivos.Default
- one.diditalinnovation.primitivos.DefaultValues
-one/diditalinnovation/classes/Programa.java
- one.diditalinnovation.classes.Programa
 one/diditalinnovation/classes/Pessoa/ProgramaDoCliente.java
  one.diditalinnovation.classes.Pessoa.ProgramaDoCliente
-one/diditalinnovation/classes/usuario/ProgramDoSuperUser.java
- one.diditalinnovation.classes.usuario.ProgramDoSuperUser
-one/diditalinnovation/classes/Pessoa/PessoaFisica.java
- one.diditalinnovation.classes.Pessoa.PessoaFisica
-one/diditalinnovation/primitivos/Primitivos.java
- one.diditalinnovation.primitivos.Primitivos
+one/diditalinnovation/tipos/primitivos/Primitivos.java
+ one.diditalinnovation.tipos.primitivos.Primitivos
+one/diditalinnovation/tipos/tipagem/TipagemForte.java
+ one.diditalinnovation.tipos.tipagem.TipagemForte
 one/diditalinnovation/classes/Cliente/ProgramaDoCliente.java
  one.diditalinnovation.classes.Cliente.ProgramaDoCliente
 one/diditalinnovation/classes/Pessoa/ProgramaDoUsuario.java
  one.diditalinnovation.classes.Pessoa.ProgramaDoUsuario
+one/diditalinnovation/classes/Cliente/Cliente.java
+ one.diditalinnovation.classes.Cliente.Cliente
+one/diditalinnovation/classes/Pessoa/ProgramaPessoaFisica.java
+ one.diditalinnovation.classes.Pessoa.ProgramaPessoaFisica
+one/diditalinnovation/tipos/tipagem/Escopo.java
+ one.diditalinnovation.tipos.tipagem.Escopo
+ one.diditalinnovation.tipos.tipagem.TesteDeEscopo
+one/diditalinnovation/tipos/tipagem/TipagemEstatica.java
+ one.diditalinnovation.tipos.tipagem.TipagemEstatica
+one/diditalinnovation/classes/Pessoa/Pessoa.java
+ one.diditalinnovation.classes.Pessoa.Pessoa
+one/diditalinnovation/classes/usuario/SuperUsuario.java
+ one.diditalinnovation.classes.usuario.SuperUsuario
+one/diditalinnovation/classes/Programa.java
+ one.diditalinnovation.classes.Programa
+one/diditalinnovation/classes/usuario/ProgramDoSuperUser.java
+ one.diditalinnovation.classes.usuario.ProgramDoSuperUser
+one/diditalinnovation/tipos/wrappers/Wrappers.java
+ one.diditalinnovation.tipos.wrappers.Wrappers
+one/diditalinnovation/tipos/naoprimitivos/NaoPrimitivos.java
+ one.diditalinnovation.tipos.naoprimitivos.NaoPrimitivos
+one/diditalinnovation/classes/Pessoa/PessoaFisica.java
+ one.diditalinnovation.classes.Pessoa.PessoaFisica
+one/diditalinnovation/tipos/naoprimitivos/Unboxing.java
+ one.diditalinnovation.tipos.naoprimitivos.Unboxing
+one/diditalinnovation/tipos/primitivos/DefaultValues.java
+ one.diditalinnovation.tipos.primitivos.Default
+ one.diditalinnovation.tipos.primitivos.DefaultValues
+one/diditalinnovation/abstracts/Quadrado.java
+ one.diditalinnovation.abstracts.Quadrado
+one/diditalinnovation/abstracts/FormaGeometrica.java
+ one.diditalinnovation.abstracts.FormaGeometrica
+one/diditalinnovation/tipos/tipagem/TipoInferido.java
+ one.diditalinnovation.tipos.tipagem.TipoInferido
+one/diditalinnovation/abstracts/Programa.java
+ one.diditalinnovation.abstracts.Programa
+one/diditalinnovation/statics/Cachorro.java
+ one.diditalinnovation.statics.Cachorro
+one/diditalinnovation/finals/CasualGamer.java
+ one.diditalinnovation.finals.CasualGamer
+one/diditalinnovation/statics/Programa.java
+ one.diditalinnovation.statics.Programa
+one/diditalinnovation/finals/Gamer.java
+ one.diditalinnovation.finals.Gamer
+one/diditalinnovation/finals/HardcoreGamer.java
+ one.diditalinnovation.finals.HardcoreGamer
+one/diditalinnovation/finals/Programa.java
+ one.diditalinnovation.finals.Programa
