@@ -46,13 +46,33 @@ one/diditalinnovation/abstracts/Programa.java
  one.diditalinnovation.abstracts.Programa
 one/diditalinnovation/statics/Cachorro.java
  one.diditalinnovation.statics.Cachorro
-one/diditalinnovation/finals/CasualGamer.java
- one.diditalinnovation.finals.CasualGamer
+one/diditalinnovation/finals/HardcoreGamer.java
+ one.diditalinnovation.finals.HardcoreGamer
 one/diditalinnovation/statics/Programa.java
  one.diditalinnovation.statics.Programa
 one/diditalinnovation/finals/Gamer.java
  one.diditalinnovation.finals.Gamer
-one/diditalinnovation/finals/HardcoreGamer.java
- one.diditalinnovation.finals.HardcoreGamer
+one/diditalinnovation/finals/CasualGamer.java
+ one.diditalinnovation.finals.CasualGamer
 one/diditalinnovation/finals/Programa.java
  one.diditalinnovation.finals.Programa
+one/diditalinnovation/interfaces/Trator.java
+ one.diditalinnovation.interfaces.Trator
+one/diditalinnovation/interfaces/Veiculo.java
+ one.diditalinnovation.interfaces.Veiculo
+one/diditalinnovation/interfaces/Programa.java
+ one.diditalinnovation.interfaces.Programa
+one/diditalinnovation/interfaces/Gol.java
+ one.diditalinnovation.interfaces.Gol
+one/diditalinnovation/interfaces/Automovel.java
+ one.diditalinnovation.interfaces.Automovel
+one/diditalinnovation/interfaces/Fiesta.java
+ one.diditalinnovation.interfaces.Fiesta
+one/diditalinnovation/enums/Programa.java
+ one.diditalinnovation.enums.Programa
+one/diditalinnovation/enums/Status.java
+ one.diditalinnovation.enums.Status
+one/diditalinnovation/enums/TipoVeiculo.java
+ one.diditalinnovation.enums.TipoVeiculo
+one/diditalinnovation/interfaces/Carro.java
+ one.diditalinnovation.interfaces.Carro
